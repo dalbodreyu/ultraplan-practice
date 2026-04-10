@@ -1,0 +1,9 @@
+{
+  "name": "ultraplan-practice",
+  "version": "1.0.0",
+  "description": "Ultraplan 실습용 프로젝트",
+  "main": "app.js",
+  "dependencies": {
+    "express": "^4.18.0"
+  }
+}
